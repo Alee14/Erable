@@ -1,0 +1,6 @@
+data/me.alee14.erable.desktop.in
+data/me.alee14.erable.appdata.xml.in
+data/me.alee14.erable.gschema.xml
+src/main.c
+src/erable-window.c
+src/erable-window.ui
